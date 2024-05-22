@@ -16,7 +16,7 @@ This chat application provides encryption using the RSA algorithm. Users can sec
 ## Installation
 1. Clone this repository on Android Studio normally or open terminal in android studio:
    ```
-   git clone https://github.com/yourusername/secure-chat-app.git
+   git clone https://github.com/Puru-G/secure-chat-app.git
    cd secure-chat-app
    ```
 
